@@ -75,5 +75,13 @@ h1{
     background-color: rgb(105, 230, 67);
     transform: scale(1.1);
 }
-
+.par{
+    background-color: rgb(71, 136, 197);
+}
+.impar{
+    background-color: rgb(197, 48, 48);
+}
+.primo{
+    background-color: rgb(94, 202, 61);
+}
 
